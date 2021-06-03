@@ -1,0 +1,23 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.navigationBar {
+    background: #fe9010fa;
+    margin: 0;
+
+    li {
+
+    margin: 10px;
+    padding: 10px;
+    list-style: none;
+    display: inline-block;
+
+        a {
+            text-decoration: none;
+            font-size: 20px;
+            color: white;
+        }
+    }
+}
